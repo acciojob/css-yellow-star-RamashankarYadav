@@ -1,8 +1,12 @@
 /*  your css code here. If applicable */
 .star{
-	width:200px;
-	height:200px;
+	width:150px;
+	height:150px;
 	background-color:#ffff00;
+	position: absolute;
+	top: 10px;
+	left : 10px;
+	
 	
 	clip-path:polygon(
 		50% 0%,
