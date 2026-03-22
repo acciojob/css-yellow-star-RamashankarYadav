@@ -1,9 +1,9 @@
 /*  your css code here. If applicable */
 .star{
-	position: absolute;
+	/* position: absolute;
 	top: 10px;
 	left : 10px;
-	
+	 */
 	width:100px;
 	height:100px;
 	background-color:#ffff00;
